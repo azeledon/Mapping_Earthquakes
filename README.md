@@ -46,6 +46,11 @@ Use a URL for GeoJSON earthquake data from the USGS website and retrieve geograp
 
 ### Add an Additional Map
 
+![](image2.png)
+
+- A third map tile layer is created.
+- The third map is added to the overlay object.
+- All the earthquake data and tectonic plate data are displayed on the all maps of the webpage.
 
 
 
